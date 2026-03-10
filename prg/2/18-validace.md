@@ -30,9 +30,12 @@ private void button1_Click(object sender, EventArgs e)
 }
 ```
 
+## Příklad 2
+
+takhle je to lepší
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTQ4NTQyMiwtNDE1NTQyOTc5LC0xNT
-QzODkyMTE4LC0xOTYzMDU3NDAwXX0=
+eyJoaXN0b3J5IjpbLTE1NTg5NDUzNDgsLTQxNTU0Mjk3OSwtMT
+U0Mzg5MjExOCwtMTk2MzA1NzQwMF19
 -->
