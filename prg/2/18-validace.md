@@ -33,7 +33,8 @@ private void button1_Click(object sender, EventArgs e)
 ## Příklad 2
 
 takhle je to lepší
-```private void Validated(object sender, EventArgs e)
+```c#
+private void Validated(object sender, EventArgs e)
 {
     this.errorProvider1.SetError(sender as TextBox, null);
 }
@@ -51,6 +52,6 @@ private void textBox_Name_Validating(object sender, System.ComponentModel.Cancel
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjM5MTQxNywtNDE1NTQyOTc5LC0xNT
-QzODkyMTE4LC0xOTYzMDU3NDAwXX0=
+eyJoaXN0b3J5IjpbMzM0MDc4MzU3LC00MTU1NDI5NzksLTE1ND
+M4OTIxMTgsLTE5NjMwNTc0MDBdfQ==
 -->
