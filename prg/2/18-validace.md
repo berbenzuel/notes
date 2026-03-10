@@ -1,7 +1,8 @@
 # Validace
-validace údajů v různých prvcích winform
+validace údajů v různých prvcích winforms
 [example form](https://github.com/berbenzuel/notes/blob/master/source/img/validation.png)
 
+## Příklad 1
 >[!NOTE]
 > ff
 
@@ -34,6 +35,6 @@ private void button1_Click(object sender, EventArgs e)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODUxMDQwOSwtMTU0Mzg5MjExOCwtMT
+eyJoaXN0b3J5IjpbLTQxNTU0Mjk3OSwtMTU0Mzg5MjExOCwtMT
 k2MzA1NzQwMF19
 -->
