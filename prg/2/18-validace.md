@@ -2,7 +2,7 @@
 
 [example form](https://github.com/berbenzuel/notes/blob/master/source/img/validation.png)
 
-> [WARNING]
+>[!NOTE]
 > ff
 
 
@@ -34,6 +34,6 @@ private void button1_Click(object sender, EventArgs e)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAxMzEyMzUsLTE5NjMwNTc0MDBdfQ
+eyJoaXN0b3J5IjpbLTE1NDM4OTIxMTgsLTE5NjMwNTc0MDBdfQ
 ==
 -->
