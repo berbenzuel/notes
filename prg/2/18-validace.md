@@ -33,9 +33,24 @@ private void button1_Click(object sender, EventArgs e)
 ## Příklad 2
 
 takhle je to lepší
+```private void Validated(object sender, EventArgs e)
+{
+    this.errorProvider1.SetError(sender as TextBox, null);
+}
+
+private void textBox_Name_Validating(object sender, System.ComponentModel.CancelEventArgs e)
+{
+    
+    if (string.IsNullOrEmpty(this.textBox_Name.Text))
+    {
+        e.Cancel = true;
+        this.errorProvider1.SetError(sender as TextBox, "pole je povinne");
+    }
+
+}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg5NDUzNDgsLTQxNTU0Mjk3OSwtMT
-U0Mzg5MjExOCwtMTk2MzA1NzQwMF19
+eyJoaXN0b3J5IjpbLTk5MjM5MTQxNywtNDE1NTQyOTc5LC0xNT
+QzODkyMTE4LC0xOTYzMDU3NDAwXX0=
 -->
