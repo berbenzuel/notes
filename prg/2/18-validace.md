@@ -1,6 +1,7 @@
 # Validace
 validace údajů v různých prvcích winforms
-[example form](https://github.com/berbenzuel/notes/tree/master/source/projects/WinFormsApp1)
+
+example form: [github](https://github.com/berbenzuel/notes/tree/master/source/projects/WinFormsApp1)
 
 ## Příklad 1
 >[!NOTE]
@@ -35,6 +36,6 @@ private void button1_Click(object sender, EventArgs e)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDU2NzY3NCwtNDE1NTQyOTc5LC0xNT
-QzODkyMTE4LC0xOTYzMDU3NDAwXX0=
+eyJoaXN0b3J5IjpbOTg0MDAxMjUsLTQxNTU0Mjk3OSwtMTU0Mz
+g5MjExOCwtMTk2MzA1NzQwMF19
 -->
