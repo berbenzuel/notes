@@ -11,14 +11,11 @@ UML is for visualizing desing of system
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20231222121300/UML-Diagrams.jpg)
 
 # Types
--	Structural
+-	[Structural](#structural)
 	-	[class](#class-uml)
--	Behavioral
-	-	[behavioral](#behavioral-uml)
+-	[Behavioral](#behavioral)
+	-	[sequence](#sequence-uml)
 	-	[use case](#use-case-uml)
-
--	Use Case
-	-	
 
 
 # Structural
@@ -33,6 +30,6 @@ UML is for visualizing desing of system
 ## Use Case UML
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20241010150547377799/Use-Case-diagram-of-an-Online-Shopping-System.webp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTA5MDYwNiwtMTMyOTk1NzI1NSw1OD
-Y5Njc5NzQsLTEwMjE0ODM2MTgsODU2ODM1OTk3XX0=
+eyJoaXN0b3J5IjpbNjg5NjY0MDU3LC0xMzI5OTU3MjU1LDU4Nj
+k2Nzk3NCwtMTAyMTQ4MzYxOCw4NTY4MzU5OTddfQ==
 -->
