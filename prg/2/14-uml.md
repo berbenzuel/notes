@@ -15,6 +15,8 @@ UML is for visualizing desing of system
 	-	[class](#class-uml)
 -	Behavioral
 	-	[behavioral](#behavioral-uml)
+-	Use Case
+	-	[use case](#use-case-uml)
 
 
 
@@ -22,7 +24,11 @@ UML is for visualizing desing of system
 #	Class UML
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20241010144554871458/Class-Diagram-example.webp)
 
+
+# Behavioral UML
+
+# Use Case UML
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2OTY3OTc0LC0xMDIxNDgzNjE4LDg1Nj
-gzNTk5N119
+eyJoaXN0b3J5IjpbODM4OTk4OTc5LDU4Njk2Nzk3NCwtMTAyMT
+Q4MzYxOCw4NTY4MzU5OTddfQ==
 -->
