@@ -4,8 +4,10 @@
 
 UML is for visualizing desing of system
 
-There are several types:
+# Types
+-	Structural
+	-	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTUwNTM0Niw4NTY4MzU5OTddfQ==
+eyJoaXN0b3J5IjpbLTEwMjE0ODM2MTgsODU2ODM1OTk3XX0=
 -->
