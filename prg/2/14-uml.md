@@ -28,7 +28,8 @@ UML is for visualizing desing of system
 # Behavioral UML
 
 # Use Case UML
+![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20241010150547377799/Use-Case-diagram-of-an-Online-Shopping-System.webp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4OTk4OTc5LDU4Njk2Nzk3NCwtMTAyMT
-Q4MzYxOCw4NTY4MzU5OTddfQ==
+eyJoaXN0b3J5IjpbLTIxMTU3NjIyMjgsNTg2OTY3OTc0LC0xMD
+IxNDgzNjE4LDg1NjgzNTk5N119
 -->
