@@ -73,11 +73,58 @@ A usage dependency relationship in a UML class diagram indicates that one class 
 ## Sequence UML
 ![sequence](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbQnn-RZR0jc_W0csDwpyMAHbJCnuikbbu-kKtrum_GyFTjyYS77e2OqtzcOQpEuceAhvHHs2W0mFkx_DGvrTP1IgiBU8kPv91MqTZ3yfWW_-NIc30eYbr5h5aczR9dsY9hKSDwqX-IqXX/s1600/2010-09-5+OO+-+UML+Behavior+Diagrams+5.gif)
 
+
+
+
+
 ## Use Case UML
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20241010150547377799/Use-Case-diagram-of-an-Online-Shopping-System.webp)
+### Relations
+#### 1. Association Relationship
+
+The  Association Relationship represents a communication or interaction between an actor and a use case. It is depicted by a line connecting the actor to the use case. This relationship signifies that the actor is involved in the functionality described by the use case.
+
+> ****Example: Online Banking System****
+
+-   ****Actor:**** Customer
+-   ****Use Case:**** Transfer Funds
+-   ****Association:**** A line connecting the "Customer" actor to the "Transfer Funds" use case, indicating the customer's involvement in the funds transfer process.
+
+![Association-(1)](https://media.geeksforgeeks.org/wp-content/uploads/20240129101956/Association-(1).webp "Click to enlarge")
+
+#### 2. Include Relationship
+
+The Include Relationship indicates that a use case includes the functionality of another use case. It is denoted by a dashed arrow pointing from the including use case to the included use case. This relationship promotes modular and reusable design.
+
+> ****Example: Social Media Posting****
+
+-   ****Use Cases:**** Compose Post, Add Image
+-   ****Include Relationship:**** The "Compose Post" use case includes the functionality of "Add Image." Therefore, composing a post includes the action of adding an image.
+
+![Include](https://media.geeksforgeeks.org/wp-content/uploads/20240129102021/Include.webp "Click to enlarge")
+
+#### 3. Extend Relationship
+
+The Extend Relationship illustrates that a use case can be extended by another use case under specific conditions. It is represented by a dashed arrow with the keyword "extend." This relationship is useful for handling optional or exceptional behavior.
+
+> ****Example: Flight Booking System****
+
+-   ****Use Cases:**** Book Flight, Select Seat
+-   ****Extend Relationship:**** The "Select Seat" use case may extend the "Book Flight" use case when the user wants to choose a specific seat, but it is an optional step.
+
+![Extend](https://media.geeksforgeeks.org/wp-content/uploads/20240208135543/Extend.webp "Click to enlarge")
+
+#### 4. Generalization Relationship
+
+The Generalization Relationship establishes an "is-a" connection between two use cases, indicating that one use case is a specialized version of another. It is represented by an arrow pointing from the specialized use case to the general use case.
+
+> ****Example: Vehicle Rental System****
+
+-   ****Use Cases:**** Rent Car, Rent Bike
+-   ****Generalization Relationship:**** Both "Rent Car" and "Rent Bike" are specialized versions of the general use case "Rent Vehicle."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjE4ODYzMSwtMTkyODI0MDE4OSw2Nj
-c1MTA4MjksLTE4MTQzMTUyODEsNjg5NjY0MDU3LC0xMzI5OTU3
-MjU1LDU4Njk2Nzk3NCwtMTAyMTQ4MzYxOCw4NTY4MzU5OTddfQ
-==
+eyJoaXN0b3J5IjpbLTc3MDQ0OTcyNSwxOTc2MTg4NjMxLC0xOT
+I4MjQwMTg5LDY2NzUxMDgyOSwtMTgxNDMxNTI4MSw2ODk2NjQw
+NTcsLTEzMjk5NTcyNTUsNTg2OTY3OTc0LC0xMDIxNDgzNjE4LD
+g1NjgzNTk5N119
 -->
