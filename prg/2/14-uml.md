@@ -13,7 +13,8 @@ UML is for visualizing desing of system
 # Types
 -	Structural
 	-	[class](#class-uml)
--	
+-	Behavioral
+	-	[behavioral](#behavioral-uml)
 
 
 
@@ -22,6 +23,6 @@ UML is for visualizing desing of system
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20241010144554871458/Class-Diagram-example.webp)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTg2Mzg2ODksLTEwMjE0ODM2MTgsOD
-U2ODM1OTk3XX0=
+eyJoaXN0b3J5IjpbNTg2OTY3OTc0LC0xMDIxNDgzNjE4LDg1Nj
+gzNTk5N119
 -->
