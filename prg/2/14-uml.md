@@ -21,6 +21,12 @@ UML is for visualizing desing of system
 # Structural
 ##	Class UML
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20241010144554871458/Class-Diagram-example.webp)
+### Notation
+![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20240118123645/Class-Notation.webp)
+-   `+` for public (visible to all classes)
+-   `-` for private (visible only within the class)
+-   `#` for protected (visible to subclasses)
+-   `~` for package or default visibility (visible to classes in the same package)
 
 
 # Behavioral
@@ -30,6 +36,7 @@ UML is for visualizing desing of system
 ## Use Case UML
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20241010150547377799/Use-Case-diagram-of-an-Online-Shopping-System.webp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5NjY0MDU3LC0xMzI5OTU3MjU1LDU4Nj
-k2Nzk3NCwtMTAyMTQ4MzYxOCw4NTY4MzU5OTddfQ==
+eyJoaXN0b3J5IjpbLTE4MTQzMTUyODEsNjg5NjY0MDU3LC0xMz
+I5OTU3MjU1LDU4Njk2Nzk3NCwtMTAyMTQ4MzYxOCw4NTY4MzU5
+OTddfQ==
 -->
