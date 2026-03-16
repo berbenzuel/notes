@@ -101,20 +101,11 @@ An asynchronous message does not wait for a reply from the receiver. The interac
 #### 4. Create message
 
 We use a Create message to instantiate a new object in the sequence diagram. There are situations when a particular message call requires the creation of an object. It is represented with a dotted arrow and create word labelled on it to specify that it is the create Message symbol.
-
-For example:
-
-> The creation of a new order on a e-commerce website would require a new object of Order class to be created.
-
 ![Create-Message](https://media.geeksforgeeks.org/wp-content/uploads/20240102165451/Create-Message.jpg "Click to enlarge")
 
 #### 5. Delete Message
 
 We use a Delete Message to delete an object. When an object is deallocated memory or is destroyed within the system we use the Delete Message symbol. It destroys the occurrence of the object in the system. It is represented by an arrow terminating with a x.
-
-For example:
-
-> In the scenario below when the order is received by the user, the object of order class can be destroyed.
 
 ![Delete-Image](https://media.geeksforgeeks.org/wp-content/uploads/20240102165540/Delete-Image.jpg "Click to enlarge")
 
@@ -124,11 +115,6 @@ Certain scenarios might arise where the object needs to send a message to itself
 
 ![self-image-1](https://media.geeksforgeeks.org/wp-content/uploads/20231228134413/self-image-1.jpg "Click to enlarge")
 
-### For example:
-
-> Consider a scenario where the device wants to access its webcam. Such a scenario is represented using a self message.
-
-![Self-Image-2](https://media.geeksforgeeks.org/wp-content/uploads/20231228134633/Self-Image-2.jpg "Click to enlarge")
 
 ### 7. Reply Message
 
@@ -136,52 +122,26 @@ Reply messages are used to show the message being sent from the receiver to the 
 
 ![Reply-Message](https://media.geeksforgeeks.org/wp-content/uploads/20231228134838/Reply-Message.jpg "Click to enlarge")
 
-For example:
-
-> Consider the scenario where the device requests a photo from the user. Here the message which shows the photo being sent is a reply message.
-
-![Reply-Message-Example](https://media.geeksforgeeks.org/wp-content/uploads/20231228135137/Reply-Message-Example.jpg "Click to enlarge")
-
 ### 8. Found Message
 
 A Found message is used to represent a scenario where an unknown source sends the message. It is represented using an arrow directed towards a lifeline from an end point.
 
-For example:
-
-> Consider the scenario of a hardware failure.
-
 ![found-message](https://media.geeksforgeeks.org/wp-content/uploads/20240102161203/found-message.jpg "Click to enlarge")
 
-It can be due to multiple reasons and we are not certain as to what caused the hardware failure.
-
-![found-message-example](https://media.geeksforgeeks.org/wp-content/uploads/20231228135840/found-message-example.jpg "Click to enlarge")
 
 ### 9. Lost Message
 
 A Lost message is used to represent a scenario where the recipient is not known to the system. It is represented using an arrow directed towards an end point from a lifeline.
 
-For example:
-
-> Consider a scenario where a warning is generated.
-
 ![lost-image](https://media.geeksforgeeks.org/wp-content/uploads/20231228140024/lost-image.jpg "Click to enlarge")
 
-The warning might be generated for the user or other software/object that the lifeline is interacting with. Since the destination is not known before hand, we use the Lost Message symbol.
-
-![Lost-Image-Example](https://media.geeksforgeeks.org/wp-content/uploads/20231228140236/Lost-Image-Example.jpg "Click to enlarge")
 
 ### 10. Guards
 
 To model conditions we use guards in UML. They are used when we need to restrict the flow of messages on the pretext of a condition being met. Guards play an important role in letting software developers know the constraints attached to a system or a particular process.
 
-For example:
-
-> In order to be able to withdraw cash, having a balance greater than zero is a condition that must be met as shown below.
 
 ![Guards](https://media.geeksforgeeks.org/wp-content/uploads/20231228140450/Guards.jpg "Click to enlarge")
-
-![Example-sequence-diagram-2](https://media.geeksforgeeks.org/wp-content/uploads/20240103162001/Example-sequence-diagram-2.jpg "Click to enlarge")
-
 
 
 
@@ -231,7 +191,7 @@ The Generalization Relationship establishes an "is-a" connection between two use
 -   ****Use Cases:**** Rent Car, Rent Bike
 -   ****Generalization Relationship:**** Both "Rent Car" and "Rent Bike" are specialized versions of the general use case "Rent Vehicle."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDA4NzkyNiwxOTc2MTg4NjMxLC0xOT
+eyJoaXN0b3J5IjpbLTkzNzE0Njg3NiwxOTc2MTg4NjMxLC0xOT
 I4MjQwMTg5LDY2NzUxMDgyOSwtMTgxNDMxNTI4MSw2ODk2NjQw
 NTcsLTEzMjk5NTcyNTUsNTg2OTY3OTc0LC0xMDIxNDgzNjE4LD
 g1NjgzNTk5N119
