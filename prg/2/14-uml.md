@@ -6,13 +6,13 @@ UML is for visualizing desing of system
 
 
 >**references**
->- geeks for geeks: [cte](https://www.geeksforgeeks.org/sql/cte-in-sql/)
+>- geeks for geeks: [uml](https://www.geeksforgeeks.org/system-design/unified-modeling-language-uml-introduction/)
 
 # Types
 -	Structural
 	-	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjAyMzkzNDIsLTEwMjE0ODM2MTgsOD
-U2ODM1OTk3XX0=
+eyJoaXN0b3J5IjpbLTUwMjc2NTc3MiwtMTAyMTQ4MzYxOCw4NT
+Y4MzU5OTddfQ==
 -->
