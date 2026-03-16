@@ -11,7 +11,9 @@ UML is for visualizing desing of system
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20231222121300/UML-Diagrams.jpg)
 
 # Types
-
+-	Structural
+	-	[class](#class-uml)
+-	
 
 
 
@@ -20,6 +22,6 @@ UML is for visualizing desing of system
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20241010144554871458/Class-Diagram-example.webp)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjI1MDI5NiwtMTAyMTQ4MzYxOCw4NT
-Y4MzU5OTddfQ==
+eyJoaXN0b3J5IjpbLTE2MTg2Mzg2ODksLTEwMjE0ODM2MTgsOD
+U2ODM1OTk3XX0=
 -->
