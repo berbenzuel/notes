@@ -31,6 +31,8 @@ UML is for visualizing desing of system
 	-   `#` for protected (visible to subclasses)
 	-   `~` for package or default visibility (visible to classes in the same package)
 
+![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20240209094815/relationship.webp)
+
 
 # Behavioral
 ## Sequence UML
@@ -39,7 +41,7 @@ UML is for visualizing desing of system
 ## Use Case UML
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20241010150547377799/Use-Case-diagram-of-an-Online-Shopping-System.webp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NTEwODI5LC0xODE0MzE1MjgxLDY4OT
-Y2NDA1NywtMTMyOTk1NzI1NSw1ODY5Njc5NzQsLTEwMjE0ODM2
-MTgsODU2ODM1OTk3XX0=
+eyJoaXN0b3J5IjpbLTE5MjgyNDAxODksNjY3NTEwODI5LC0xOD
+E0MzE1MjgxLDY4OTY2NDA1NywtMTMyOTk1NzI1NSw1ODY5Njc5
+NzQsLTEwMjE0ODM2MTgsODU2ODM1OTk3XX0=
 -->
