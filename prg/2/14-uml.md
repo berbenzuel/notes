@@ -4,7 +4,8 @@
 
 UML is for visualizing desing of system
 
-th
+There are several types:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzI5Njg3LDg1NjgzNTk5N119
+eyJoaXN0b3J5IjpbLTk4OTUwNTM0Niw4NTY4MzU5OTddfQ==
 -->
