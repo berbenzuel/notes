@@ -24,10 +24,10 @@ UML is for visualizing desing of system
 ### Notation
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20240118123645/Class-Notation.webp)
 
-<d style="color:">fff</d>
-#### Name
--   `+` for public (visible to all classes)
--   `-` for private (visible only within the class)
+
+ - Name
+	-   `+` for public (visible to all classes)
+	-  	 `-` for private (visible only within the class)
 -   `#` for protected (visible to subclasses)
 -   `~` for package or default visibility (visible to classes in the same package)
 
@@ -39,7 +39,7 @@ UML is for visualizing desing of system
 ## Use Case UML
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20241010150547377799/Use-Case-diagram-of-an-Online-Shopping-System.webp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDA3MDc2OCwtMTgxNDMxNTI4MSw2OD
+eyJoaXN0b3J5IjpbMTQ2NjE0Njg2MSwtMTgxNDMxNTI4MSw2OD
 k2NjQwNTcsLTEzMjk5NTcyNTUsNTg2OTY3OTc0LC0xMDIxNDgz
 NjE4LDg1NjgzNTk5N119
 -->
