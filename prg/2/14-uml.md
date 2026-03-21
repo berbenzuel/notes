@@ -20,6 +20,7 @@ UML is for visualizing desing of system
 
 # Structural
 ##	Class UML
+![enter image description here](https://cdn-images.visual-paradigm.com/guide/uml/uml-class-diagram-tutorial/17-class-diagram-example-order-system.png)
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20241010144554871458/Class-Diagram-example.webp)
 ### Notation
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20240118123645/Class-Notation.webp)
@@ -191,8 +192,8 @@ The Generalization Relationship establishes an "is-a" connection between two use
 -   ****Use Cases:**** Rent Car, Rent Bike
 -   ****Generalization Relationship:**** Both "Rent Car" and "Rent Bike" are specialized versions of the general use case "Rent Vehicle."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzE0Njg3NiwxOTc2MTg4NjMxLC0xOT
-I4MjQwMTg5LDY2NzUxMDgyOSwtMTgxNDMxNTI4MSw2ODk2NjQw
-NTcsLTEzMjk5NTcyNTUsNTg2OTY3OTc0LC0xMDIxNDgzNjE4LD
-g1NjgzNTk5N119
+eyJoaXN0b3J5IjpbLTIwMzk5NDYzNSwtOTM3MTQ2ODc2LDE5Nz
+YxODg2MzEsLTE5MjgyNDAxODksNjY3NTEwODI5LC0xODE0MzE1
+MjgxLDY4OTY2NDA1NywtMTMyOTk1NzI1NSw1ODY5Njc5NzQsLT
+EwMjE0ODM2MTgsODU2ODM1OTk3XX0=
 -->
